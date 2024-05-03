@@ -1,0 +1,20 @@
+
+Name         Version        Source     Updated             Info
+----         -------        ------     -------             ----
+7zip         23.01          main       2024-05-01 11:06:18 
+dark         3.14           main       2024-05-02 15:48:50 
+fzf          0.51.0         main       2024-05-02 16:43:50 
+gcc          13.2.0         main       2024-05-02 15:48:48 
+git          2.45.0         main       2024-05-01 11:06:56 
+googlechrome 124.0.6367.119 extras     2024-05-02 16:06:34 
+Hack-NF      3.2.1          nerd-fonts 2024-05-02 16:23:50 
+neovim       0.9.5          main       2024-05-01 12:19:48 Held package
+python       3.12.3         main       2024-05-02 15:49:57 
+ripgrep      14.1.0         main       2024-05-02 15:47:57 
+scoop-search 1.4.1          main       2024-05-02 15:45:27 
+snipaste     1.16.2         extras     2024-05-01 12:04:40 
+starship     1.18.2         main       2024-05-01 11:25:38 
+sudo         0.2020.01.26   main       2024-05-01 11:20:50 
+vscode       1.88.1         extras     2024-05-01 12:29:45 
+z            1.1.13         extras     2024-05-01 12:14:55 
+
